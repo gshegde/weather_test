@@ -1,0 +1,69 @@
+ // const cards =
+    //   data.map((day, i) => {
+    //     return <Box boxShadow={5}
+    //       m={2}
+    //       p={4}
+    //       style={{ marginLeft: '30px', marginTop: "50px", width: "100px" }}
+    //     > <Typography color="textSecondary" gutterBottom>Infected</Typography></Box>
+    //   })
+
+    ----------
+    
+        {/* <Grid style={{
+          width: '400px',
+          marginLeft: '35%',
+          backgroundColor: 'transparent',
+          marginTop: "50px",
+          boxShadow: '2px'
+        }} item component={Card} xs={12} md={6} className={styles.card} >
+          <CardContent>
+            <Typography color="textSecondary" gutterBottom>35 C</Typography>
+
+            <Typography variant="h6">Temarature</Typography>
+          </CardContent>
+
+        </Grid> */}
+        {/* <Grid container direction="row" justify="center" alignItems="center" style={{
+          width: '400px',
+          marginLeft: '35%',
+          backgroundColor: 'transparent',
+          marginTop: "50px",
+          boxShadow: '2px'
+        }} > */}
+
+        {/* </Grid> */}
+        {/* <Box display="flex" flexDirection="row" flexWrap="wrap" style={{
+          width: '100%',
+
+        }}>
+          {cards}
+        </Box> */}
+
+       
+        ["few clouds", "clear sky", "clear sky", "few clouds", "few clouds", "scattered clouds", "broken clouds", "clear sky", 
+        "clear sky", "clear sky", "clear sky", "clear sky", "clear sky", "clear sky", "scattered clouds", "clear sky", "clear sky", 
+        "clear sky", "clear sky", "scattered clouds", "broken clouds", "overcast clouds", "overcast clouds", "overcast clouds",
+         "overcast clouds", "scattered clouds", "few clouds", "clear sky", "clear sky", "clear sky", "clear sky", "scattered clouds",
+         "broken clouds", "clear sky", "clear sky", "clear sky", "clear sky", "clear sky", "clear sky", "clear sky"] "light rain"
+
+         
+        // <List display="inline" component="nav" aria-label="main mailbox folders">
+        //     {pageNumbers.map(number => (
+        //         <ListItem key={number}> <a onClick={() => paginate(number)} href='!#'>{number}</a>
+        //         </ListItem>
+        //     ))}
+        // </List>
+
+        /* <ul>
+                {pageNumbers.map(number => (
+                    <li key={number}> <a onClick={() => paginate(number)} href='!#'>{number}</a>
+                    </li>
+                ))}
+    
+    
+            </ul> */
+            --------------------------------------------
+  // keyHandler(e) {
+
+  //   console.log(e.which)//13 for enter
+  // }            

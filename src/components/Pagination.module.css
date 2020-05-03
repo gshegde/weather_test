@@ -1,0 +1,50 @@
+.menu-outer {
+	height: 84px;
+	margin-left: 200px;
+	margin-top: 50px;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+
+ol ol li::before {
+	background: #DE51FF;
+  }
+  ol ol ol li::before {
+	background: #EE9EFF;
+  }
+.horizontal {
+	
+	list-style: none;
+	padding-top: 20px;
+    }
+    
+	.horizontala {
+		display: inline;
+		content: counter(my-awesome-counter);
+	   background: #662974;
+	   opacity: 0.4;
+       width: 2rem;
+  height: 2rem;
+  border-radius: 70%;
+  display: inline-block;
+  line-height: 2rem;
+  color: white;
+  text-align: center;
+  margin-right: 0.5rem;
+	}
+
+	.newsitem{
+		color:white !important;
+		text-decoration:none;
+		text-emphasis: white;
+		font-size:1.2rem;
+		font-weight: 10px;
+	}
+
+.newsitem a:hover{
+		text-decoration:none !important;
+	}

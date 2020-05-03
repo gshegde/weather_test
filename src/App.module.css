@@ -1,0 +1,57 @@
+
+.background{
+margin-block-start: 0em;
+ background:url('test.jpg');
+ background-size: cover;
+   height: 100vh;
+   background-position:"top-Left";
+   opacity: 0.8;
+background-repeat:repeat;
+     margin:0px;
+     width: 100%;
+  
+   
+ 
+}
+.txtBox{
+background-color: ivory;
+border-radius: 0.4rem;
+
+}
+
+.card{
+background-color: transparent;
+
+}
+
+.centercol {
+     
+ width: "100px";
+ margin-left: "600px";
+ height: "100px";
+ margin-top: "20px";
+background: #aaa;
+overflow-y: scroll;
+   }
+
+
+   @media(max-width:770px){
+      .container{
+          margin:0 10%;
+          
+      }
+      .imgr{
+          width: 85%;
+          
+      }
+      .foot{
+          width:100%
+      }
+  }
+
+  /* @media only screen and (max-width: 767px) {
+   body {
+
+     background-image: url(images/background-photo-mobile-devices.jpg);
+   }
+ } */
